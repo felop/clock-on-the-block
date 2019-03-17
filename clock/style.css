@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: "Futura";
+}
+
+h1,p {
+  color: gray;
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url('Futura.ttc');
+}
