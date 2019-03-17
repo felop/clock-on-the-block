@@ -33,7 +33,7 @@ function drawWords(xask, len, cutby, brightnb) {
   for (let i = 0; i < len; i++) {
 
     if (brightnb == i) {
-      fill(200, 0, 200);
+      fill(220, 0, 220);
     } else {
       fill(65);
     }
