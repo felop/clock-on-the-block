@@ -4,6 +4,11 @@ body {
   font-family: "Futura";
 }
 
+#gitpg {
+  text-decoration: none;
+  color: white;
+}
+
 h1,p {
   color: gray;
 }
